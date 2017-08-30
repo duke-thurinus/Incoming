@@ -12,8 +12,11 @@ A requested key is limited to 1,000 requests per hour
 Either way place your chosen api key in the space provided on line 5
 If that sounds to easy you may use a .ini file 
 Name the file apikey.ini then fill it in as following:
+
 [SectionOne]
+
 key: your api key here
+
 
 
 Happy asteroid hunting!!!
