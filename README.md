@@ -20,3 +20,5 @@ key: your api key here
 
 
 Happy asteroid hunting!!!
+
+Don't put that in the .ini
