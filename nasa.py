@@ -15,8 +15,6 @@ print (t)
 payload = {'end_date': t, 'start_date': t, 'api_key': api_key}
 nasa = requests.get ('https://api.nasa.gov/neo/rest/v1/feed', params=payload)
 
-#print("Status Code:", nasa.status_code)
-
 n = nasa.json()
 print("Number of Objects:", n["element_count"])
 
