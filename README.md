@@ -18,7 +18,8 @@ Name the file apikey.ini then fill it in as following:
 key: your api key here
 
 
+You also need to install the requests library.
+Help with that: http://docs.python-requests.org/en/master/user/install/
+
 
 Happy asteroid hunting!!!
-
-Don't put that in the .ini
